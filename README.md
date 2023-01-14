@@ -6,7 +6,7 @@ Project carried out for the course of Combustion for Propulsion on Fluent at Eco
 | ------------- |:-------------:|
 | Jérémy Archier & Nezha Bourakkadi | Mr. Alexis Giauque |
 
-[Subject](Report/Combustion_BE_Numerics_ressource_AG.pdf)
+[Subject](Report/BE-rijke.pdf)
 
 [Report](Report/Combustion_for_propulsion__Rijke_tube__BE_n_2_.pdf)
 
