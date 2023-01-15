@@ -1,6 +1,6 @@
 # Rijke-tube-acoustic-analysis
 ## Context
-Project carried out for the course of Combustion for Propulsion on Fluent at Ecole Centrale Lyon (France).
+Project carried out for the course of Combustion for Propulsion at Ecole Centrale Lyon (France).
 
 | Made by | Referent teacher | 
 | ------------- |:-------------:|
